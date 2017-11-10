@@ -1,0 +1,15 @@
+spaceship_size:tiny
+spaceship_x   :50
+
+window_width  :600
+window_height :400
+
+alien_left_x  :100
+alien_right_x :500
+alien_top_y   :100
+alien_bottom_y:400
+alien_num_rows:5
+alien_num_cols:11
+
+alien_image   :alien.png
+hit_score     :1
